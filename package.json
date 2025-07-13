@@ -1,0 +1,22 @@
+{
+  "name": "npm-demo-release-please",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "test": "echo 'Tests passed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyPopovUA/npm-demo-release-please.git"
+  },
+  "keywords": ["demo", "release-please", "npm"],
+  "author": "Oleksii Popov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexeyPopovUA/npm-demo-release-please/issues"
+  },
+  "homepage": "https://github.com/AlexeyPopovUA/npm-demo-release-please#readme",
+  "description": "Demo library showcasing Release Please automation"
+}
