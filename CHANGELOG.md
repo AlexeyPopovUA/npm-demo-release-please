@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/AlexeyPopovUA/npm-demo-release-please/compare/v1.0.0...v1.0.1) (2025-07-13)
+
+
+### Bug Fixes
+
+* add package-lock.json for npm ci compatibility ([1328a75](https://github.com/AlexeyPopovUA/npm-demo-release-please/commit/1328a75ab87c3809c6bfb02359faa1549585ce7a))
+
 ## 1.0.0 (2025-07-13)
 
 
