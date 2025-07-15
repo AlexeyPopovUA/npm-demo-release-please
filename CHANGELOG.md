@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/AlexeyPopovUA/npm-demo-release-please/compare/v1.0.1...v1.0.2) (2025-07-15)
+
+
+### Bug Fixes
+
+* update .gitignore to include .idea directory ([1e532ba](https://github.com/AlexeyPopovUA/npm-demo-release-please/commit/1e532ba0e66c10652dd6aac77c7e2f41d40d250f))
+
 ## [1.0.1](https://github.com/AlexeyPopovUA/npm-demo-release-please/compare/v1.0.0...v1.0.1) (2025-07-13)
 
 
