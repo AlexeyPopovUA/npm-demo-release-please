@@ -1,5 +1,7 @@
 # npm-demo-release-please
 
+[![NPM Package](https://img.shields.io/npm/v/npm-demo-release-please)](https://www.npmjs.com/package/npm-demo-release-please)
+
 Demo library showcasing **Release Please** automation for NPM package publishing.
 
 ## Features
@@ -49,3 +51,7 @@ This project follows [Conventional Commits](https://www.conventionalcommits.org/
 2. Release Please bot creates/updates a release PR
 3. Review and merge the release PR
 4. Package is automatically published to NPM
+
+## Learn More
+
+This demo repository is featured in the comprehensive guide: [**"The Ultimate Guide to NPM Release Automation: Semantic Release vs Release Please vs Changesets"**](https://oleksiipopov.com/blog/npm-release-automation/) - a detailed comparison of different NPM release automation tools with practical examples.
